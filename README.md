@@ -1,0 +1,1 @@
+# compress-rle-rs\n\nRun-length encoding library in Rust.\n\n## Features\n\n- Basic RLE: compact (count, byte) pairs\n- PackBits: Apple/TIFF spec-compliant encoding\n- Modified bitmap RLE: 1-bit scanline encoding\n- High-level encode/decode API\n- Pure Rust, no external dependencies\n\n## License\n\nMIT OR Apache-2.0

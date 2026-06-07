@@ -1,0 +1,12 @@
+[package]
+name = "compress-rle-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Run-length encoding: basic RLE, PackBits, and modified bitmap RLE with encode/decode in pure Rust."
+documentation = "https://docs.rs/compress-rle-rs"
+repository = "https://github.com/SuperInstance/compress-rle-rs"
+readme = "README.md"
+keywords = ["rle", "run-length", "packbits", "compression", "bitmap"]
+categories = ["algorithms", "compression"]
+license = "MIT OR Apache-2.0"
